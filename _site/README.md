@@ -1,2 +1,2 @@
-# zwbBlog.github.io
-MyBlog
+# 小博的计算机学习博客
+第一次建博客，很开心
