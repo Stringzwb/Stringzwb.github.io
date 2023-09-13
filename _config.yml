@@ -19,8 +19,7 @@ nav:
   home: '/'
   tags: '/tags.html'
 
-header:
-  title:'欢迎来到赵文博的博客'
+  
 # Footer
 footer:
   since: 2023
