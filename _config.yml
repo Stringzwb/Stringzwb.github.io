@@ -28,8 +28,7 @@ author: '赵文博'
 nickname: '无畏的小博'
 bio: '前端，后端，热爱技术，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
-page:
-  title: '赵文博的博客'
+
 # Search
 search: true
 
