@@ -98,11 +98,7 @@
       </div>
       {% endif %}
     </section>
-    {% if site.comments.disqus %}
-    <section class="post-footer-item comment">
-        <div id="disqus_thread"></div>
-    </section>
-    {% endif %}
+   {% include comment.html %}
   </section>
 
   {% include footer.html %}
