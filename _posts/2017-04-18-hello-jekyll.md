@@ -4,10 +4,10 @@ title: '我的第一篇博客'
 date: 2023-9-13
 author: zwb
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: 博客,规划
+tags: 博客 规划
 ---
 
-> Transform your plain text into static websites and blogs.
+> 我的博客之旅就从这里开始吧
 
 ### Welcome
 
